@@ -1,0 +1,16 @@
+G:\hoc\Lap trinh truc quan\Chuong 4\Paint\Circle Game\obj\Debug\net6.0-windows\Circle_Game.Form1.resources
+G:\hoc\Lap trinh truc quan\Chuong 4\Paint\Circle Game\obj\Debug\net6.0-windows\Circle Game.csproj.GenerateResource.cache
+G:\hoc\Lap trinh truc quan\Chuong 4\Paint\Circle Game\obj\Debug\net6.0-windows\Circle Game.GeneratedMSBuildEditorConfig.editorconfig
+G:\hoc\Lap trinh truc quan\Chuong 4\Paint\Circle Game\obj\Debug\net6.0-windows\Circle Game.AssemblyInfoInputs.cache
+G:\hoc\Lap trinh truc quan\Chuong 4\Paint\Circle Game\obj\Debug\net6.0-windows\Circle Game.AssemblyInfo.cs
+G:\hoc\Lap trinh truc quan\Chuong 4\Paint\Circle Game\obj\Debug\net6.0-windows\Circle Game.csproj.CoreCompileInputs.cache
+G:\hoc\Lap trinh truc quan\Chuong 4\Paint\Circle Game\bin\Debug\net6.0-windows\Circle Game.exe
+G:\hoc\Lap trinh truc quan\Chuong 4\Paint\Circle Game\bin\Debug\net6.0-windows\Circle Game.deps.json
+G:\hoc\Lap trinh truc quan\Chuong 4\Paint\Circle Game\bin\Debug\net6.0-windows\Circle Game.runtimeconfig.json
+G:\hoc\Lap trinh truc quan\Chuong 4\Paint\Circle Game\bin\Debug\net6.0-windows\Circle Game.dll
+G:\hoc\Lap trinh truc quan\Chuong 4\Paint\Circle Game\bin\Debug\net6.0-windows\Circle Game.pdb
+G:\hoc\Lap trinh truc quan\Chuong 4\Paint\Circle Game\obj\Debug\net6.0-windows\Circle Game.dll
+G:\hoc\Lap trinh truc quan\Chuong 4\Paint\Circle Game\obj\Debug\net6.0-windows\refint\Circle Game.dll
+G:\hoc\Lap trinh truc quan\Chuong 4\Paint\Circle Game\obj\Debug\net6.0-windows\Circle Game.pdb
+G:\hoc\Lap trinh truc quan\Chuong 4\Paint\Circle Game\obj\Debug\net6.0-windows\Circle Game.genruntimeconfig.cache
+G:\hoc\Lap trinh truc quan\Chuong 4\Paint\Circle Game\obj\Debug\net6.0-windows\ref\Circle Game.dll
