@@ -1,0 +1,37 @@
+SE104.O27.1,SE114.O21.1,SE101.O22,SE104.O27,SE114.O21,SS010.O22,SS004.O24,SS006.O25
+// Chỉ cần thay mỗi môn trên một hàng cho biến monDangKy này là xong
+// Lưu ý: Nếu sau này trường update website, các thẻ query không còn đúng nữa, thì bạn liên hệ messenger.com/t/loia5tqd001 để báo mình nhé
+
+var monDangKy = `
+SE104.O27.1
+SE114.O21.1
+SE101.O22
+SE104.O27
+SE114.O21
+SS010.O22
+SS004.O24
+SS006.O25
+`;
+
+var successLog = (message) => console.log('%c' + message, 'font-weight:bold; color:green;');
+var errorLog = (message) => console.log('%c' + message, 'font-weight:bold; color:red;');
+
+DangKy(monDangKy);
+
+function DangKy(monDangKyString) {
+  try {
+    var listMonDangKy = monDangKyString.trim().split('\n').map((it) => it.trim())
+    
+    var allRows = [...document.querySelectorAll('form table tr')]
+
+    var rowsToDangKy = allRows.filter((it) => listMonDangKy.includes(it.querySelector('td:nth-child(2)')?.textContent?.trim()))
+    
+    rowsToDangKy.forEach((it, index) => {
+      it.querySelector('td:first-child input[type="checkbox"]').click();
+      var tenLop = it.querySelector('td:nth-child(2)')?.textContent?.trim();
+      successLog(index + 1 + '.Đã chọn lớp ' + tenLop);
+    })
+  } catch {
+    errorLog('Chọn lớp không thành công! Bạn tự chọn lớp đi nhé!');
+  }
+}
